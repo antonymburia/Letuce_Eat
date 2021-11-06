@@ -9,3 +9,11 @@ body{
     padding: 100px;
     color: #fff;
 }
+.btn{
+    background-color: orange;
+    padding: 5px;
+    border: none;
+    text-align: center;
+    color: #fff;
+    
+}
