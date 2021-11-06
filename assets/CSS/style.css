@@ -22,18 +22,6 @@ body{
 #services{
     background-color: lavender;
 }
-.service-cards{
-    display: flex;
-    justify-content: space-between;
-    margin-left: 100px;
-    margin-right: 100px;
-    text-align: center;
-}
-.scard {
-    background-color: #fff;
-    padding: 50px;
-    margin: 5px 5px 100px 5px;
-}
 #col{
     text-align: center;
     background-color: #000;
