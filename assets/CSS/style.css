@@ -2,3 +2,10 @@ body{
     font-family: 'Times New Roman', Times, serif;
 
 }
+#home{
+    background: url('../images/image2.png') no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 100px;
+    color: #fff;
+}
