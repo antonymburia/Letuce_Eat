@@ -22,16 +22,33 @@ body{
 #services{
     background-color: lavender;
 }
-.div{
-    background-color:#fff;
+.service-cards{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
     text-align: center;
-    padding: 30px;
 }
-
-.circle{
-    background-color: orange;
-    width: 60px;
-    padding: 20px;
-    border-radius:50%;
+.scard {
+    background-color: #fff;
+    padding: 50px;
+    margin: 5px 5px 100px 5px;
+}
+#col{
     text-align: center;
+    background-color: #000;
+    font-weight: bold;
+    color: #fff;
+
+}
+#div-left-image{
+    background: url("../images/image1.png");
+    background-size: cover;
+    background-position: center;
+    /* width: 100%; */
+    padding: 200px;
+}
+#col2{
+    margin-top: 70px;
+    
 }
