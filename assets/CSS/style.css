@@ -29,13 +29,13 @@ body{
     color: #fff;
 
 }
-#div-left-image{
-    background: url("../images/image1.png");
+#image1{
+    background: url("../images/image1.png") no-repeat;
     background-size: cover;
     background-position: center;
-    /* width: 100%; */
-    padding: 200px;
-}
+    padding: 120px;
+
+    }
 #col2{
     margin-top: 70px;
     
