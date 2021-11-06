@@ -6,14 +6,19 @@ body{
     background: url('../images/image2.png') no-repeat;
     background-size: cover;
     background-position: center;
-    padding: 100px;
+    padding: 120px;
     color: #fff;
+    font-weight: bold;
 }
 .btn{
     background-color: orange;
-    padding: 5px;
+    padding: 5px 30px;
     border: none;
+    font-weight: bold;
     text-align: center;
     color: #fff;
+    margin-top: 30px;
+
+
     
 }
