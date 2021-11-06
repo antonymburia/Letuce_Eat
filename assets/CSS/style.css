@@ -22,3 +22,16 @@ body{
 #services{
     background-color: lavender;
 }
+.div{
+    background-color:#fff;
+    text-align: center;
+    padding: 30px;
+}
+
+.circle{
+    background-color: orange;
+    width: 60px;
+    padding: 20px;
+    border-radius:50%;
+    text-align: center;
+}
