@@ -55,6 +55,21 @@ body{
     background-color: #fff;
     padding: 20px;
     margin: 20px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.circle{
+    color: #fff;
+    padding-top: 15px;
+    margin-bottom: 50px;
+    text-align: center;
+    background-color: orange;
+    border-radius: 45%;
+    width: 60px;
+    height: 60px;
+    margin-left: 40%;
 }
 #col{
     text-align: center;
