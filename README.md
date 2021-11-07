@@ -10,7 +10,7 @@ This is a simple landing page for LeWebsitetuce Eat
 ## Setup/Installation Requirements
 * Clone the repository to your computer from 
 
-        https://github.com/antonymburia/Burger_palace
+        https://github.com/antonymburia/Letuce_Eat
 * Open the project using your preferred code editor.
 * Open the project using a web browser, preferably Google Chrome.
 ## Known Bugs
