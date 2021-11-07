@@ -40,3 +40,20 @@ body{
     margin-top: 70px;
     
 }
+#menu{
+    background-color: lavender;
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#card{
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+}
+#card img{
+    width: 200px;
+
+}
