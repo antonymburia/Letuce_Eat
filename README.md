@@ -3,8 +3,8 @@
 ## Description
 This is a simple landing page for LeWebsitetuce Eat
 ## Screenshot
-<img src="" alt="">
-<img src="" alt="">
+<img src="assets/images/letuce-eat-homepage.png" alt="">
+<img src="assets/images/letuce-eat-footer.png" alt="">
 
 
 ## Setup/Installation Requirements
