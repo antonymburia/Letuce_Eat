@@ -79,6 +79,11 @@ body{
     width: 200px;
 
 }
+.menu-btn{
+    border: none;
+    padding: 0 10px 0 10px;
+    margin-top: 30px;
+}
 .booking{
     background-image: url("../images/image8.png");
     background-size: cover;
