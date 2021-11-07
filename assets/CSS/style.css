@@ -2,7 +2,24 @@ body{
     font-family: 'Times New Roman', Times, serif;
 
 }
-
+.nav {
+    float: right;
+    margin-right: 135px;
+    background-color: rgba(0, 0, 0, 0.5)
+}
+.nav a{
+    text-decoration: none;
+    padding: 14px;
+    margin: 20px;
+    color: #fff;
+    font-weight: bold;
+}
+.nav> .active{
+    color: orange;
+}
+.logo {
+    padding-left: 15px;
+}
 #home{
     background: url('../images/image2.png') no-repeat;
     background-size: cover;
